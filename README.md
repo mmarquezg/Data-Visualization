@@ -9,7 +9,7 @@ Data viz for all the personal projects I have done until now. Here a little summ
  3.Which countries have the most unicorns? Are there any cities that appear to be industry hubs?  
  4.Which investors have funded the most unicorns?
  
- ###Done with PowerBI
+ *Done with Power BI*
  
  Database sources: https://www.mavenanalytics.io/
  
@@ -21,6 +21,6 @@ Data viz for all the personal projects I have done until now. Here a little summ
  3.Are sales being lost with out-of-stock products at certain locations?  
  4.How much money is tied up in inventory at the toy stores? How long will it last?
 
- ####Done with PowerBI
+ *Done with Power BI*
 
 Database sources: https://www.mavenanalytics.io/
