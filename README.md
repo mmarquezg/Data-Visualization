@@ -11,7 +11,7 @@ Data viz for all the personal projects I have done until now. Here a little summ
  
  *Done with Power BI*
  
- Database sources: https://www.mavenanalytics.io/
+ Database source: https://www.mavenanalytics.io/
  
 ## Maven Toy Sales 🪅:
  Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys  
@@ -23,4 +23,4 @@ Data viz for all the personal projects I have done until now. Here a little summ
 
  *Done with Power BI*
 
-Database sources: https://www.mavenanalytics.io/
+Database source: https://www.mavenanalytics.io/
