@@ -1,5 +1,11 @@
 # Data-Visualization 🌐
-Data viz for all the personal projects I have done until now. Here a little summary about them and the analysis done:
+Data viz for all the personal projects I have done until now. 
+
+I'll try to upload a new project every week in order to have an up to date portfolio and you can be able to see my progress as Data Analyst until I finally join to the Tech World 😊.
+
+Also, I hope this can be used for future Data Analysts as an inspiration 💪.
+
+So, here a little summary about them and the analysis done:
 
 ## Unicorn Companies 🦄:
  Private companies with a valuation over $1 billion as of March 2022 
