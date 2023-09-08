@@ -1,7 +1,7 @@
 # Data-Visualization 🌐
 Data viz for all the personal projects I have done until now. 
 
-I'll try to upload a new project every week in order to have an up to date portfolio and you can be able to see my progress as Data Analyst until I finally join to the Tech World 😊.
+I'll try to upload a new project every week in order to have an up to date portfolio and you can be able to see my progress as Data Analyst 😊.
 
 Also, I hope this can be used for future Data Analysts as an inspiration 💪.
 
